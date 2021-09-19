@@ -1,4 +1,6 @@
 - 👋 Git to develop myself:)
+- ✋ hi there!
+
 
 - hookypooky@naver.com
 
