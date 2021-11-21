@@ -7,7 +7,6 @@
 - ✋ Welcome!
 - 📖 NLP....I Need More NLP...
   - 🧠 Deeply interested in sentiment analysis
-
 - 👨‍🎓 I love to find out new things to learn :)
 
 - hookypooky@naver.com
