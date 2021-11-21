@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/56079922/142782850-fbcc4055-3206-4470-a1bb-5378f9338da3.png)                                                           
+![image](https://user-images.githubusercontent.com/56079922/142782913-f1db58b9-710e-4c85-b12d-7edf50e11621.png)                                              
 ----
 - ✋ hi there!
 - 📖NLP....I Need More NLP...
