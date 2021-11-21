@@ -3,15 +3,15 @@
 
 
 
-
+```
 - ✋ Welcome!
 - 📖 NLP....I Need More NLP...
-  - 🧠 Interested in sentiment analysis
+  - 🧠 Deeply interested in sentiment analysis
 
 - 👨‍🎓 I love to find out new things to learn :)
 
 - hookypooky@naver.com
-
+```
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barleysack&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
