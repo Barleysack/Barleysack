@@ -18,7 +18,11 @@
 ```
 - ✋ Welcome!
 
-- 📖 NLP....I Need More NLP...
+- 📖 MRC..../
+- 📖 Summarization..../
+- 📖 NLP....I Need More NLP.../
+- 📖 Also getting interested to speech recognition...
+
   
 - 👨‍🎓 I love to find out new things to learn :)
 
