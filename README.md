@@ -18,9 +18,9 @@
 ```
 - ✋ Welcome!
 
-- 📖 MRC..../
-- 📖 Summarization..../
-- 📖 NLP....I Need More NLP.../
+- 📖 MRC....\
+- 📖 Summarization....\
+- 📖 NLP....I Need More NLP...\
 - 📖 Also getting interested to speech recognition...
 
   
