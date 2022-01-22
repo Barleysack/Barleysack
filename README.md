@@ -20,7 +20,7 @@
 
 - 📖 MRC....\
 - 📖 Summarization....\
-- 📖 Personally, lightweight will be the future...\
+- 📖 Personally, lightweight....\
 - 📖 Also getting interested to speech recognition...
 
   
