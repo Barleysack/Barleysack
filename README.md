@@ -16,12 +16,10 @@
 ```
 ---
 ```
-- ✋ Welcome!
+- Trying to learn->
 
-- 📖 MRC....\
-- 📖 Summarization....\
-- 📖 Personally, lightweight....\
-- 📖 Also getting interested to speech recognition...
+- 📖 DL in constrained resources...\
+- 📖 Model optimization...\
 
   
 - 👨‍🎓 I love to find out new things to learn :)
