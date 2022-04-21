@@ -20,7 +20,7 @@
 
 - 📖 DL in constrained resources...\
 - 📖 Model optimization...\
-
+- Lightweight! Lightweight! Lightweight!
   
 - 👨‍🎓 I love to find out new things to learn :)
 
